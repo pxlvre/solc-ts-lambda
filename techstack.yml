@@ -1,0 +1,97 @@
+repo_name: vidalpaul/solc-ts-lambda
+report_id: bfacb646deb012a9206f9ca8393140c4
+version: 0.1
+repo_type: Public
+timestamp: '2024-04-15T01:16:52+00:00'
+requested_by: vidalpaul
+provider: github
+branch: master
+detected_tools_count: 7
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/vidalpaul/solc-ts-lambda/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Paulo Vidal
+  last_updated_on: 2023-07-23 22:39:22.000000000 Z
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/vidalpaul/solc-ts-lambda
+  detection_source: Repo Metadata
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vidalpaul/solc-ts-lambda
+  detection_source: Repo Metadata
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/vidalpaul/solc-ts-lambda/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Paulo Vidal
+  last_updated_on: 2023-07-23 22:39:22.000000000 Z
+- name: AWS Lambda
+  description: Automatically run code in response to modifications to objects in Amazon
+    S3 buckets, messages in Kinesis streams, or updates in DynamoDB
+  website_url: http://aws.amazon.com/lambda
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Serverless / Task Processing
+  image_url: https://img.stackshare.io/service/1909/aws-lambda.png
+  detection_source_url: https://github.com/vidalpaul/solc-ts-lambda/blob/master/package.json
+  detection_source: package.json
+  last_updated_by: Paulo Vidal
+  last_updated_on: 2023-07-23 22:39:22.000000000 Z
+- name: "@types/aws-lambda"
+  description: TypeScript definitions for AWS Lambda
+  package_url: https://www.npmjs.com/@types/aws-lambda
+  version: 8.10.119
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17868/default_b760b4f955878b0055c02bde0608c2f01e7d4f4f.png
+  detection_source_url: https://github.com/vidalpaul/solc-ts-lambda/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Paulo Vidal
+  last_updated_on: 2023-07-23 22:39:22.000000000 Z
+- name: solc
+  description: Solidity compiler
+  package_url: https://www.npmjs.com/solc
+  version: 0.8.21
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17248/default_8da30b412bf0dbb63f862bee0dfab0a32df2fb69.png
+  detection_source_url: https://github.com/vidalpaul/solc-ts-lambda/blob/master/package-lock.json
+  detection_source: package.json
+  last_updated_by: Paulo Vidal
+  last_updated_on: 2023-07-23 22:39:22.000000000 Z
