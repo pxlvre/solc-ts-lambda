@@ -13,7 +13,7 @@
   "author": "vidalpaul",
   "license": "MIT",
   "devDependencies": {
-    "@types/aws-lambda": "^8.10.157",
+    "@types/aws-lambda": "^8.10.158",
     "typescript": "^5.9.3"
   },
   "dependencies": {
