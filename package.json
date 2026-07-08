@@ -14,7 +14,7 @@
   "license": "MIT",
   "devDependencies": {
     "@types/aws-lambda": "^8.10.162",
-    "typescript": "^6.0.3"
+    "typescript": "^7.0.2"
   },
   "dependencies": {
     "aws-lambda": "^1.0.7",
